@@ -1,6 +1,6 @@
 
 
-Welcome to Sid kitchen
+Welcome to Go practice
 
-Kheer
-Pasta
+TC-1 -- Hello World
+TC-2 -- Integer
