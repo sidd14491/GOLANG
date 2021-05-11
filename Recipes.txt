@@ -5,4 +5,12 @@ Welcome to Go practice
 TC-1 -- Hello World
 TC-2 -- Integer
 
+
+=== Adding 2 more testcases ===
+TC-3 -- Array
+TC-4 -- Slice
+
+Done my changes
+
 Final  Copy
+
