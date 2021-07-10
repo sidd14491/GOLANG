@@ -16,7 +16,7 @@ var z int
 
 func main() {
 	// short declaration operator
-	// DECLARE a variable and ASSIGN a VALUE (of a certain type)
+	// DECLARE a variable and ASSIGN a VALUE (of a certain TYPE)
 	x := 12
 	fmt.Println(x)
 
