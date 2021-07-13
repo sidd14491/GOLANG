@@ -1,0 +1,50 @@
+Portfolio:
+    # App-Based --> We have done ourself
+    # Web-Based --> We have done ourself
+
+    # Language
+        1. Python
+        2. Golang
+    # Web-Framework
+        1. Django
+        2. Flask
+        3. AioHttp
+        4. FastAPI
+        
+    # Target Domain
+        1. Security domain
+            a) Splunk
+                1) Application
+                2) Addon
+            b) QRadar
+        2. Networking domain
+    
+    # Technology
+        1. Docker
+        2. Kubernetes
+        3. AWS
+        4. Jenkins and Gitops
+        5. Gitlab,Github
+        6. Database
+            a) RDBMS
+                1. MySql
+                2. Postgress
+            b) No-SQL
+                1. Mariadb
+                2. Mongodb
+        7. Big-Data 
+            1. Hadoop
+    
+    # Latest Tech Support
+        1. AI
+            a) ML
+
+# How we proceed.
+                     Manish                  Sid                    Time                    Comment                             
+
+1. Language:           Python                    Golang            Upto-10-Aug 
+2. Web-Framework       Mention-Above             TO-Do             End Sep-2021(including   Parallel made one application
+                                                                   1 week buffer time)
+3. Database            MySql/No-Sql              MySql/No-Sql
+4. DS/AL               Must                      Must
+5. System-Design       
